@@ -14,7 +14,7 @@ export default function App() {
               <Link to="/login">Login</Link>
             </li>
             <li>
-              <Link to="/reset">Reset Logout</Link>
+              <Link to="/reset">Reset</Link>
             </li>
             <li>
               <Link to="/dashboard">Dashboard</Link>
